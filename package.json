@@ -1,0 +1,26 @@
+{
+  "name": "rn-gnavigator",
+  "version": "1.0.17",
+  "description": "simple Stack navigator without any aditional installation and integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgrajan12/rn-gnavigator.git"
+  },
+  "keywords": [
+    "stack",
+    "navigator",
+    "navigate",
+    "navigation",
+    "authnav"
+  ],
+  "author": "Gajarajan <teknikgg@gmail.com> (http://teknikgg.ga/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgrajan12/rn-gnavigator/issues"
+  },
+  "homepage": "https://github.com/kgrajan12/rn-gnavigator#readme"
+}
